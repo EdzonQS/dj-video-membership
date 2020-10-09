@@ -1,0 +1,28 @@
+# macOS Hidden Files
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# IDE Local Data
+.vscode/
+.idea/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# Django Local Data
+*.log
+media/
+
+# Coverage Reports
+.coverage
+
+# SQLite3 Database
+*.sqlite3
